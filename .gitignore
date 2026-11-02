@@ -1,0 +1,7 @@
+target/
+*.class
+*.jar
+*.db
+*.sqlite
+*.log
+.DS_Store
